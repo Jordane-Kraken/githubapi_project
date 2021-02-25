@@ -1,0 +1,26 @@
+.resultsCount {
+  border: solid 1px grey;
+  margin: 1em;
+  padding: 1em;
+  width : 90%;
+  margin: auto;
+  background-color: white;
+  margin-bottom: 1.5em;
+}
+
+.cards {
+  margin: auto;
+  justify-content: center;
+}
+
+.image {
+  margin-bottom: 1em;
+  width: 100%;
+}
+
+.repos {
+  &__link {
+    margin-top: 0.5em;
+    text-align: right;
+  }
+}

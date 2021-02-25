@@ -1,0 +1,18 @@
+.searchBar{
+  &__divImg{
+  display: flex;
+  justify-content: center;
+  }
+  &__logo {
+    width: 25%;
+  }
+  &__divForm {
+  background-color: white;
+  margin: 1em;
+  }
+  
+ }
+ .input {
+ border: solid 2px grey;
+ padding: 0.5em;
+}

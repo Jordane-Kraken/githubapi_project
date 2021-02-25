@@ -1,9 +1,11 @@
-.app {
-  width: 500px;
-  margin: 1em auto;
-  text-align: center;
+body {
+  background-color: #BDC3C7;
 }
 
-.app img {
-  max-width: 150px;
+.app {
+  width: 90%;
+  margin: auto;
+  padding: 1rem;
+  background-color: #ECF0F1 ;
+  font-family: sans-serif;
 }
