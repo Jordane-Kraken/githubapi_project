@@ -1,6 +1,6 @@
 # Githubapi project 🔎
 
-Site permettant de rechercher des repositories sur Github.<br>Utilisation de l'API Github
+Site permettant de rechercher des repositories sur Github.<br>➡️ Utilisation de l'API Github. 
 
 ## Technologies
 React<br>
