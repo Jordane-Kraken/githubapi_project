@@ -8,4 +8,4 @@ SCSS<br>
 Axios<br>
 Semantic UI
 
-### Bien commencer : commande yarn puis yarn start pour lancer le serveur
+### Bien commencer : commande yarn install puis yarn start pour lancer le serveur
